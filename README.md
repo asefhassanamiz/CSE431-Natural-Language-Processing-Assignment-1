@@ -1,7 +1,11 @@
-Amiz;
-Emiz;
-Emmyz;
-Aemeez;
+Amiz
+
+Emiz
+
+Emmyz
+
+Aemeez
+
 [AE]e?mm?[iey]e?z;
 
 The RegEx Regular Exprssion that Matches my last name with 4 alternate spelling Variations
